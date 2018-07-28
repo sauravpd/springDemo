@@ -2,5 +2,5 @@ package codeSamples;
 
 public interface DBService 
 {
-	String getData();
+	public String getData();
 }
