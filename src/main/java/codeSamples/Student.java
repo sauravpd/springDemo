@@ -2,6 +2,11 @@ package codeSamples;
 
 import org.springframework.stereotype.Component;
 
+/**
+ * 
+ * @author saurav
+ *
+ */
 @Component
 public class Student implements DBService
 {
